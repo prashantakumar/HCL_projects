@@ -5,7 +5,6 @@
     top: 100px;
 }
 .relative{
-    color: rgba(247, 83, 83, 0.945);
     position: relative;
     width: 160px;
     height: 50px;
@@ -13,14 +12,12 @@
     left: 225px;
 }
 .sticky{
-    color: rgba(247, 83, 83, 0.945);
     position: sticky;
     width: 200px;
     height: 60px;
     bottom: 0px;
 }
 .absolute{
-    color: rgba(247, 83, 83, 0.945);
     position: absolute;
     left: 50px;
     width: 200px;
@@ -28,10 +25,9 @@
     top: 50px;
 }
 .static{
-    color: rgba(247, 83, 83, 0.945);
     position: static;
     width: 200px;
-    height: 60px;
+    height: 100px;
 }
 .main1 :hover{
     background: rgba(173, 165, 246, 0.993);
